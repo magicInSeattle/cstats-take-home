@@ -48,6 +48,8 @@ westernista
 
 ## Part 2 - Web Design Application Problem
 
+### For this problem, I used grids and media query.
+
 ```javascript
 <!DOCTYPE html>
 <html lang="en">
