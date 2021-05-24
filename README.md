@@ -43,4 +43,6 @@ westernista
 
 ### For this problem, I used grids and media query.
 
-See layout.html
+See layout.html 
+
+[Preview](https://htmlpreview.github.io/?https://raw.githubusercontent.com/magicInSeattle/cstats-take-home/master/layout.html?token=AC3RXSWSTWYFCKCS36FO6XLAVQK7Q)
