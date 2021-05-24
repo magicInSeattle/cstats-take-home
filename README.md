@@ -1,7 +1,7 @@
 # Take-Home Solutions
 
 ## Part 1 - Hash Application Problem.
-**Note**: Figuring the solution to this problem was taking longer than I expected. So, I ended up searching for a solution and unfortunately found one that exactly solves the problem...see link [here](https://gist.github.com/srph/925ba1ba511fb5348443). This was the basis for my solution. I ended up rewriting it in python3 just to make sure I understood what it was doing. Here is my solution
+**Note**: Figuring the solution to this problem was taking more time than I allocated. So, I ended up searching for a solution and unfortunately found one that exactly solves the problem...see link [here](https://gist.github.com/srph/925ba1ba511fb5348443). This was the basis for my solution. I ended up rewriting it in python3 just to make sure I understood what it was doing. Here is my solution
 
 ```python3
 import math
