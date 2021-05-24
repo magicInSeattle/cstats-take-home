@@ -4,6 +4,7 @@
   <meta content="text/html;charset=utf-8" http-equiv="Content-Type">
   <meta content="utf-8" http-equiv="encoding">
   <style>
+        /* Browser Reset */
         * {
             box-sizing: border-box;
             padding: 0;
@@ -14,6 +15,7 @@
             text-align: center;
         }
 
+        /* Will apply grid layout to the div with the container class */
         .container {
             display: grid;
             grid-template-areas:
@@ -25,6 +27,7 @@
             min-height: 100vh;
         }
 
+        /* here we specify which element the grid area applies to */
         header { grid-area: header; }
         nav { grid-area: nav; }
         content { grid-area: content; }
